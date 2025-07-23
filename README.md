@@ -4,7 +4,7 @@ Coffee Order Data** is a sales dataset that contains transactional records for d
 
 ---
 ## Data Source: 
-Internal sales export (Excel format)
+   The dataset is an internally compiled file, likely exported from a CRM or e-commerce platform. 
 ## Tools Used 
   - Excel- Data Cleaning 
   - SQL - Data Analysis 
