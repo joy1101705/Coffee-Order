@@ -6,9 +6,9 @@ Coffee Order Data** is a sales dataset that contains transactional records for d
 ## Data Source: 
 Internal sales export (Excel format)
 ## Tools Used 
-  Excel- Data Cleaning 
-  SQL - Data Analysis 
-  Power BI - Data Visualisation
+  - Excel- Data Cleaning 
+  - SQL - Data Analysis 
+  - Power BI - Data Visualisation
 ##  Data Cleaning Steps
  **Removed Duplicates**
    - Checked and eliminated duplicate records based on `Order ID`.
