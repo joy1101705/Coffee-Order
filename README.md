@@ -6,25 +6,18 @@ Coffee Order Data** is a sales dataset that contains transactional records for d
 ## Data Source: 
 Internal sales export (Excel format)
 ## Tools Used 
-Excel- Data Cleaning 
-SQL - Data Analysis 
-Power BI - Data Visualisation
+  Excel- Data Cleaning 
+  SQL - Data Analysis 
+  Power BI - Data Visualisation
 ##  Data Cleaning Steps
-
-The following cleaning steps were applied:
-
- Removed Duplicates**  
-   Checked and eliminated duplicate records based on `Order ID`.
-
- **Standardized Coffee & Roast Types**  
-   Matched short codes (`Exc`, `Rob`) with full names (`Excelsa`, `Robusta`).
+ **Removed Duplicates**
+   - Checked and eliminated duplicate records based on `Order ID`.
+   - Standardized Coffee & Roast Types  
+   - Matched short codes (`Exc`, `Rob`) with full names (`Excelsa`, `Robusta`).
 
  **Formatted Columns**  
-   - Converted `Order Date` to date format  
-   - Extracted numerical values from `Size`  
-  
- **Reconciled Redundancies**  
-   Ensured `Coffee Type` and `Coffeetyp` matched appropriately, same for roast columns.
+   - Converted `Order Date` to date format   
+   - Ensured `Coffee Type` and `Coffeetyp` matched appropriately, same for roast columns.
 
 ---
 ## Data Analysis 
@@ -36,9 +29,6 @@ The following cleaning steps were applied:
 
 ---
 ## Results & Findings
-
-Here are some of the key insights obtained from the analysis:
-
 - **Top Coffee Type Sold**: Robusta coffee had the highest number of units sold, especially in the United States and Ireland.
 - **Most Preferred Roast**: Medium roast was the most popular across all countries, especially for Robusta blends.
 - **High-Revenue Customers**: Certain repeat customers generated over $100 in sales individually, suggesting loyalty or bulk purchases.
