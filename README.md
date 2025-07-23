@@ -27,4 +27,25 @@ The following cleaning steps were applied:
    Ensured `Coffee Type` and `Coffeetyp` matched appropriately, same for roast columns.
 
 ---
+## Data Analysis 
+   - Monthly sales trends
+- Top-selling products and coffee types
+- Most active customers by quantity or revenue
+- Country-wise roast preference analysis
+- Correlation between unit price and quantity sold
+
+---
+## Results & Findings
+
+Here are some of the key insights obtained from the analysis:
+
+- **Top Coffee Type Sold**: Robusta coffee had the highest number of units sold, especially in the United States and Ireland.
+- **Most Preferred Roast**: Medium roast was the most popular across all countries, especially for Robusta blends.
+- **High-Revenue Customers**: Certain repeat customers generated over $100 in sales individually, suggesting loyalty or bulk purchases.
+- **Size Preference**: The most frequently purchased size was **1.0 kg**, likely due to price-value convenience.
+- **Country Trends**:
+  - **United States** customers favored **Excelsa** and **Robusta** equally.
+  - **Ireland** had a stronger preference for **Arabica** and **Dark** roasts.
+- **Sales Spikes**: Notable sales peaks occurred in **May 2022** and **July 2021**, indicating seasonal or promotional influence.
+
 
